@@ -16,6 +16,17 @@ AMUG is an interest group for library staff working with music materials in libr
   - More Maryland link: <https://usmai.org/portal/display/SYSTEMS/Alma+-+Primo+VE>
 - ExLibris lists: <https://exlibrisusers.org/postorius/lists/>
 
+  ## Resources within ALMA
+  - Reminder from Margaret Corby
+    - Shared analytics reports for the Alma Music Users Group.  Various reports can be found in
+      - Analytics
+	    - Shared folders
+	    - Community
+	    - Reports
+	    - Shared Reports
+	    - Reports
+	    - Alma Music Users Group
+
 
 
 

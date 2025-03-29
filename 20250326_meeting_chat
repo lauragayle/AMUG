@@ -1,0 +1,660 @@
+Unedited chat from 20250326 meeting
+
+13:57:48 From Alyssa Nance to Everyone:
+	surviving
+	
+13:59:12 From Session Host to Everyone:
+	Wow! So many folks! Thank you for bding here!
+	joe clark:❤️
+	
+14:01:49 From Rebecca Shaw to Everyone:
+	Interloper here!
+	
+14:02:04 From Reed David to Everyone:
+	Question for the interlopers--from what systems are you migrating?
+	Emily M. Colucci:❤️
+	
+14:02:05 From Rebecca Belford to Everyone:
+	Interloper here! OhioLINK.
+	
+14:02:10 From Rebecca Shaw to Everyone:
+	July 16th
+	
+14:02:25 From David Prochazka to Everyone:
+	Migrating from Sierra to Alma
+	
+14:02:30 From Gwen and Kyler to Everyone:
+	Like all of us Ohio folks Sierra to Alma
+	
+14:02:34 From Rebecca Shaw to Everyone:
+	Also Sierra to Alma
+	
+14:02:42 From David Prochazka to Everyone:
+	Right
+	
+14:02:48 From Jennifer Olson to Everyone:
+	We're migrating at University of Hartford January 2026 (from Bibliovation, a proprietary version of Koha by LibLime)
+	Tracey Rudnick, Emily M. Colucci:👍
+	
+14:02:52 From Rebecca Belford to Everyone:
+	ALL of Ohio. Data freezes Friday. No stress here.
+	Sarah Cohen, Kirk-Evan Billet, Rebecca Shaw, Leonard Martin:❗
+	Alyssa Nance, Ivan Kaproth-Joslin, Gwen and Kyler, David Prochazka, Catherine Busselen, Jennifer Olson, Chelsea M Hoover:😂
+	Hermine Vermeij, Jennifer Olson:😬
+	Casey Mullin:😯
+	
+14:04:16 From Rebecca Shaw to Everyone:
+	What do you wish you had know from an instruction standpoint?
+	
+14:04:59 From Jennifer Olson to Everyone:
+	how many of your institutions have made display configuration data available in repositories like GitHub? is there some sort of list? I'm aware of the Orbis GitHub.
+	
+14:08:05 From Scott Phinney to Everyone:
+	If you're in a consortium and in a Network Zone (particularly in a shared bib environment), the amount of work that may be required of your consortium staff can vary greatly, depending on how you're set up.
+	
+14:08:43 From Rebecca Belford to Everyone:
+	UC system: Much appreciation to Catherine and Hermine for fielding so many questions from me already. ❤️
+	Hermine Vermeij:😁
+	
+14:09:26 From Michelle Hahn - OHIO (IFL, she) to Everyone:
+	OhioLINK: Your Cataloging and Metadata Working Group is working on putting together the info you'll need for various workflows!
+	David Prochazka, Sarah Cohen:👍
+	
+14:09:30 From Rebecca Belford to Everyone:
+	And Casey.
+	Casey Mullin:❤️
+	
+14:10:49 From Casey Mullin to Everyone:
+	Orbis Cascade GitHub link (again): https://github.com/Orbis-Cascade-Alliance/ve-norm-rules
+	Reed David, Rebecca Belford:👍
+	
+14:11:45 From Catherine Busselen to Everyone:
+	UCSB's isn't public but I would be happy to share specific workflows, etc. upon request.
+	
+14:11:50 From Sarah Cohen to Everyone:
+	Florida: https://flvc.libguides.com/AlmaPrimoGuides
+	
+14:11:54 From Kathy Glennan to Everyone:
+	I don't know how useful it is to outsiders, but: https://usmai.org/portal/. Some of the contents are available to non-USMAI consortium members, but the site is for everything, not just Alma/Primo.
+	
+14:12:46 From Rebecca Shaw to Everyone:
+	Awesome
+	
+14:12:52 From Rebecca Belford to Everyone:
+	I'm grateful to be on our local Primo config group and very happy they are on board with making one view that works for music!
+	Casey Mullin, Session Host:❤️
+	Hermine Vermeij, Gwen and Kyler:🥳
+	
+14:12:56 From Lisa Shiota to Everyone:
+	Replying to "I don't know how useful it is to outsiders, but: h...":
+	I'm not sure if this is public: https://usmai.org/portal/display/SYSTEMS/Alma+-+Primo+VE
+	
+14:12:57 From Jennifer Olson to Everyone:
+	Catherine: that would be great, once we've figured out what we need 🙂 we're at the very very beginning pf the process
+	Catherine Busselen:👍
+	
+14:13:29 From Kathy Glennan to Everyone:
+	Replying to "I don't know how useful it is to outsiders, but: h...":
+	Lisa's link does work - I'm not logged in & I see it!
+	Lisa Shiota:👍
+	
+14:15:29 From Michelle Hahn - OHIO (IFL, she) to Everyone:
+	Did you encounter a lot of "angry patrons" during the data freeze?
+	Gwen and Kyler:👍
+	
+14:16:01 From Sarah Cohen to Everyone:
+	Replying to "Did you encounter a lot of "angry patrons" during ...":
+	Not really. Ours was at the end of spring semester, though.
+	
+14:16:05 From Scott Phinney to Everyone:
+	Advice that was given to us in PASCAL (South Carolina) by another consortium was to not go overboard configuring work order departments on the front end. Now that we are 4+ years in, we are in the process of adding more at USC to improve efficiency.
+	Sandy Lemmon:👍
+	
+14:16:22 From Rebecca Belford to Everyone:
+	"Reminding" for training is very kind, looking forward to starting on the day-to-day stuff.
+	Session Host:👍
+	
+14:16:32 From Michelle Hahn - OHIO (IFL, she) to Everyone:
+	Replying to "Did you encounter a lot of "angry patrons" during ...":
+	I'm expecting not, but everyone else is very scared. Our data unfreezes the day before finals.
+	Sarah Cohen:☹️
+	Hermine Vermeij, Jennifer Olson, Session Host, Alyssa Nance:😬
+	
+14:18:58 From Rebecca Belford to Everyone:
+	Ohio Q for consortia folks: Did anyone decide NOT to use OCLC daily updates? This is a rather spicy topic here...
+	
+14:19:18 From Kathy Glennan to Everyone:
+	Replying to "Did you encounter a lot of "angry patrons" during ...":
+	Not that I know of. The circ freeze was much shorter and timed to be after graduation.
+	
+14:19:25 From Hermine Vermeij to Everyone:
+	Replying to "Ohio Q for consortia folks: Did anyone decide NOT ...":
+	It was a key decision for University of California. (We do use them in the NZ.)
+	
+14:19:47 From Scott Phinney to Everyone:
+	Replying to "Did you encounter a lot of "angry patrons" during ...":
+	We were already in data freeze when we went into lockdown for COVID...so, no patrons...
+	
+14:20:46 From Kathy Glennan to Everyone:
+	Replying to "Advice that was given to us in PASCAL (South Carol...":
+	Work orders are confusing and complicated - but also essential. We use them for sending scores to the Preservation department for binding. These had to be created by us; we're not using the out-of-the-box stuff.
+	
+14:21:13 From Linda Fairtile to Everyone:
+	Replying to "Did you encounter a lot of "angry patrons" during ...":
+	We scheduled our freeze after the end of the spring semester, so it wasn't too bad.
+	
+14:21:31 From Reed David to Everyone:
+	her-MEE-nuh
+	David Prochazka, Session Host:👍
+	
+14:23:00 From Melissa Moll to Everyone:
+	Replying to "Advice that was given to us in PASCAL (South Carol...":
+	We also created a work order at the "music library desk" to account for pam binding, etc. that happens at the music library (vs. within our marking/preservation department).
+	
+14:23:58 From Linda Fairtile to Everyone:
+	Replying to "Advice that was given to us in PASCAL (South Carol...":
+	TBH, we're so small that we just ignore work orders.  I'm always trying to delete them.
+	Alyssa Nance, Session Host:😂
+	
+14:24:36 From Reed David to Everyone:
+	2013
+	
+14:24:44 From Scott Phinney to Everyone:
+	I give credit to the SUNY consortium for the work order simplicity advice.
+	Session Host, Reed David:👍
+	
+14:24:55 From Kathy Glennan to Everyone:
+	Work orders do require scanning the barcode at each step - so simplicity in handoffs is key.
+	Session Host, Alyssa Nance, Sarah Cohen:👍
+	Kirk-Evan Billet:💯
+	
+14:25:04 From Stephen Mantz to Everyone:
+	Replying to "Advice that was given to us in PASCAL (South Carol...":
+	Yes, some patience with work orders is beneficial.
+	
+14:25:21 From Hermine Vermeij to Everyone:
+	Replying to "Work orders do require scanning the barcode at eac...":
+	That's why we've avoided them in a lot of situations--too many people touch things, it's so many steps.
+	Session Host:👍
+	
+14:26:00 From Linda Fairtile to Everyone:
+	Replying to "Work orders do require scanning the barcode at eac...":
+	@Hermine, in my case I'm usually handing off to myself!
+	Kirk-Evan Billet:❤️
+	Hermine Vermeij:👍
+	Session Host:🤣
+	
+14:26:05 From Margaret Corby to Everyone:
+	We use workorders as a "where-to-find" it in our department.  We use Physical processing, Zero copy, etc.
+	Session Host:👍
+	
+14:26:48 From Rebecca Shaw to Everyone:
+	Did you provide any end user training for faculty?
+	
+14:27:11 From Kathy Glennan to Everyone:
+	We left WorldCat Discovery for Primo. We had to reinstate access to WorldCat Discovery, but it no longer links directly to our holdings.
+	
+14:27:21 From Scott Phinney to Everyone:
+	Here at USC, we ended up turning ON a lot of MARC fields in the Primo VE display that were suppressed by default. It's amazing how much information can be in notes...
+	Linda Fairtile, Hermine Vermeij:👍🏻
+	Alyssa Nance:👏
+	Kirk-Evan Billet:💯
+	
+14:27:43 From Rebecca Belford to Everyone:
+	Replying to "Here at USC, we ended up turning ON a lot of MARC ...":
+	I could not believe MARC 500 notes were suppressed by default when we got our test!!!
+	Kirk-Evan Billet, Gwen and Kyler:❤️
+	
+14:27:45 From Sandy Lemmon to Everyone:
+	Replying to "Did you provide any end user training for faculty?":
+	We tried, but no one showed up to any of the sessions we offered.
+	Rebecca Shaw:👍
+	
+14:27:59 From Session Host to Everyone:
+	FRBR = 🔥
+	Cari Alexander:👍
+	Alyssa Nance, Rebecca Belford, Sara Ostermeier:😂
+	
+14:28:00 From Scott Phinney to Everyone:
+	We ALSO turned off FRBR-ization at USC
+	Kirk-Evan Billet:❤️
+	
+14:28:02 From Kathy Glennan to Everyone:
+	Replying to "Here at USC, we ended up turning ON a lot of MARC ...":
+	One of our catalogers is on the Primo working group, and we have turned on additional fields for display in Primo.
+	
+14:28:11 From Sarah Cohen to Everyone:
+	Replying to "Here at USC, we ended up turning ON a lot of MARC ...":
+	That's why LGG got the keys to our specific Music Library view of Primo. The main campus library web folks said 'All those 500 notes are just for catalogers."
+	Linda Fairtile:☹️
+	Rebecca Belford, Reed David:😥
+	Casey Mullin, Alyssa Nance:😯
+	
+14:28:14 From Linda Fairtile to Everyone:
+	Yes!  I also asked for music FRBRization to be turned off.
+	
+14:28:42 From Kathy Glennan to Everyone:
+	We've had issues with both FRBRization and deduplication. One of them was conflating full & vocal scores!
+	Session Host:👍
+	Linda Fairtile:👍🏻
+	
+14:28:45 From Kyla Jemison to Everyone:
+	Replying to "Yes!  I also asked for music FRBRization to be tur...":
+	us too - it was grouping scores and recordings together, which was very unhelpful for music.
+	Linda Fairtile:👍🏻
+	
+14:28:56 From Hermine Vermeij to Everyone:
+	Replying to "Here at USC, we ended up turning ON a lot of MARC ...":
+	The default Primo view is ridiculously meager.
+	Linda Fairtile:💯
+	
+14:29:02 From Sarah Cohen to Everyone:
+	Replying to "We've had issues with both FRBRization and dedupli...":
+	We had some conflating scores and recordings!
+	Kathy Glennan:😮
+	Alyssa Nance:🫠
+	
+14:29:08 From Linda Fairtile to Everyone:
+	Replying to "Yes!  I also asked for music FRBRization to be tur...":
+	Exactly!
+	
+14:29:13 From Kirk-Evan Billet to Everyone:
+	Replying to "We've had issues with both FRBRization and dedupli...":
+	Almost 2 years in, I'm still trying to get all of that fixed.
+	Sarah Cohen:❗
+	
+14:30:52 From Rebecca Belford to Everyone:
+	SPICY!
+	Reed David, Elizabeth Uchimura:🌶️
+	Gwen and Kyler:🔥
+	Sarah Cohen:😂
+	
+14:31:32 From Scott Phinney to Everyone:
+	Local Extensions in consortia. Learn them. Love them.
+	Reed David:💯
+	Alyssa Nance, Session Host:😂
+	
+14:31:52 From Sarah Cohen to Everyone:
+	Replying to "Local Extensions in consortia. Learn them. Love th...":
+	Or use the 773 field!
+	Reed David:👍
+	
+14:32:08 From Scott Phinney to Everyone:
+	Replying to "Local Extensions in consortia. Learn them. Love th...":
+	@Sarah Cohen also usable as a local extension
+	
+14:32:22 From Kathy Glennan to Everyone:
+	We haven't started the OCLC updates, but I'm all in favor of them. We implemented WorldCat Local/Discovery more than a decade ago, so we don't have local information to lose. I'm not sure about the rest of USMAI, however.
+	
+14:32:54 From Sarah Cohen to Everyone:
+	Replying to "Local Extensions in consortia. Learn them. Love th...":
+	Exactly. But we had a whole $5 issue leftover from when our university catalogs merged in Aleph. We have been cleaning them up for 13 years.
+	Alyssa Nance, Rebecca Belford:😭
+	Scott Phinney:😯
+	
+14:33:44 From David Prochazka to Everyone:
+	My understanding is that Alma ignores $5 values.  Is that true?
+	
+14:33:58 From Hermine Vermeij to Everyone:
+	Replying to "We haven't started the OCLC updates, but I'm all i...":
+	I've discovered so many weird things--different editions cataloged on the same record; different formats cataloged on the same record...
+	
+14:34:28 From Session Host to Everyone:
+	death to $5… argh… such an issue here…
+	
+14:34:33 From Hermine Vermeij to Everyone:
+	Replying to "My understanding is that Alma ignores $5 values.  ...":
+	You can set up your normalization rule to delete fields with $5 that don't apply to your institution.
+	David Prochazka:👍
+	
+14:34:46 From Alyssa Nance to Everyone:
+	2 weeks!?!?!?
+	
+14:34:54 From Kyla Jemison to Everyone:
+	Replying to "My understanding is that Alma ignores $5 values.  ...":
+	I don't know about display, but Alma flags fields with $5 as invalid, but you can still save the records.
+	
+14:35:04 From Rebecca Belford to Everyone:
+	Replying to "My understanding is that Alma ignores $5 values.  ...":
+	I've so many updates to try to catch ours and move to 590s. Waiting to see the mess from everyone else's.
+	
+14:36:20 From Rebecca Belford to Everyone:
+	Replying to "My understanding is that Alma ignores $5 values.  ...":
+	@Hermine Vermeij How does that work with NZ records?
+	
+14:37:02 From Hermine Vermeij to Everyone:
+	Replying to "My understanding is that Alma ignores $5 values.  ...":
+	We ask everyone to use the same normalization rule, which filters out anything that's not a UC-specific code. (We have to deal with seeing other UC fields in our records.)
+	
+14:37:10 From Jill Eller to Everyone:
+	So our 590s need to have a $$9?
+	
+14:37:37 From Rebecca Belford to Everyone:
+	Scott: Re $9 on 590 et sl, it worked ok to list 59x on "local field" migration form and they were all added during test migration.
+	Scott Phinney, David Prochazka:👍
+	
+14:37:38 From Hermine Vermeij to Everyone:
+	Replying to "So our 590s need to have a $$9?":
+	They'll add it automatically during the migration if you tell them which fields to add it to. I think?
+	Rebecca Belford:👍
+	
+14:37:42 From Sarah Cohen to Everyone:
+	Replying to "So our 590s need to have a $$9?":
+	IF you're in a consortium. Otherwise, your 590s will display to everyone.
+	
+14:37:55 From Scott Phinney to Everyone:
+	Replying to "So our 590s need to have a $$9?":
+	Prior to migration, yes. Once in Alma, the building icon is the representation of that $$9
+	
+14:38:10 From Jill Eller to Everyone:
+	Replying to "So our 590s need to have a $$9?":
+	Thank you. We are mid-migration and in a consortium
+	
+14:38:24 From Scott Phinney to Everyone:
+	Replying to "So our 590s need to have a $$9?":
+	@Hermine Vermeij I definitely had to add to all of ours myself... :-(
+	Hermine Vermeij:😳
+	Alyssa Nance:🫠
+	
+14:39:07 From Rebecca Belford to Everyone:
+	Replying to "My understanding is that Alma ignores $5 values.  ...":
+	So cooperative!
+	
+14:39:17 From Jill Eller to Everyone:
+	Replying to "Scott: Re $9 on 590 et sl, it worked ok to list 59...":
+	Thank you!
+	
+14:39:20 From Margaret Corby to Everyone:
+	I would like to remind everyone about the Shared analytics reports for the Alma Music Users Group.  Various reports can be found here in Analytics:
+	Shared folders
+	Community
+	Reports
+	Shared Reports
+	Reports
+	Alma Music Users Group
+	
+	There are currently 11 analytics queries in the folder.
+	Kyla Jemison, Scott Phinney, Alyssa Nance, Linda Fairtile:❤️
+	Sarah Cohen:👍
+	
+14:39:24 From Hermine Vermeij to Everyone:
+	Replying to "My understanding is that Alma ignores $5 values.  ...":
+	There are only 10 of us...
+	
+14:39:54 From Reed David to Everyone:
+	At Washington State, one post-migration project was to put enumeration and chronology information in the correct place in holdings and item records.
+	
+14:40:00 From Kathy Glennan to Everyone:
+	Will someone save this chat? Participants can't do so.
+	
+14:40:06 From Session Host to Everyone:
+	I will.
+	
+14:40:12 From Kathy Glennan to Everyone:
+	Replying to "I will.":
+	Thanks!
+	
+14:40:16 From Casey Mullin to Everyone:
+	Replying to "At Washington State, one post-migration project wa...":
+	That's an ongoing effort at WWU as well
+	Reed David, Leonard Martin:👍
+	
+14:40:19 From Session Host to Everyone:
+	Replying to "I will.":
+	thanks for the reminder! 🙂
+	
+14:40:27 From Sarah Cohen to Everyone:
+	Replying to "Will someone save this chat? Participants can't do...":
+	LGG should be able to do it!
+	
+14:41:14 From Alyssa Nance to Everyone:
+	Replying to "At Washington State, one post-migration project wa...":
+	This is on my bucket list
+	Reed David:👍
+	
+14:42:05 From Kathy Abromeit to Everyone:
+	I would LOVE this. Those Naxos records are awful. From a public services perspective, we WANT this!!
+	
+14:42:07 From Rebecca Belford to Everyone:
+	Casey, thank you for asking about Naxos, we have been getting the hefty OCLC records and have no clue how to handle those during migration.
+	
+14:42:08 From Linda Fairtile to Everyone:
+	Replying to "At Washington State, one post-migration project wa...":
+	I do it on an ad hoc basis. No systematic project yet
+	Reed David:👍
+	
+14:42:11 From Session Host to Everyone:
+	Oh Naxos records…
+	
+14:43:27 From Michelle Hahn - OHIO (IFL, she) to Everyone:
+	I have big ideas on how to cooperate in our specialty field to take on Naxos.
+	Session Host, Rebecca Belford, Kathy Abromeit:👍
+	
+14:44:12 From Rebecca Belford to Everyone:
+	We've been getting the $$$ bibs but where do they go when we migrate? Do they vanish because e-resource?
+	
+14:44:29 From Stephen Mantz to Everyone:
+	Naxos posts removals to their blog
+	David Prochazka:👍
+	
+14:44:51 From Kathy Abromeit to Everyone:
+	I would love to hear Michelle Hahn’s idea if ready to share!
+	Rebecca Belford:👍
+	Linda Fairtile:👍🏻
+	
+14:45:34 From Hermine Vermeij to Everyone:
+	Replying to "We've been getting the $$$ bibs but where do they ...":
+	They don't disappear, but they might turn into duplicates if you're also migrating data from an ERM.
+	
+14:47:10 From Rebecca Belford to Everyone:
+	Thank you Sharon! I wonder when our P2E form was due 😬
+	
+14:47:18 From Session Host to Everyone:
+	we have about 10 (scheduled) minutes left
+	
+14:47:24 From Hermine Vermeij to Everyone:
+	Replying to "We've been getting the $$$ bibs but where do they ...":
+	+1 to what Sharon said about P2E. I blocked that out.
+	Rebecca Belford:👍
+	Scott Phinney:💯
+	
+14:47:29 From Michelle Hahn - OHIO (IFL, she) to Everyone:
+	@Rebecca Belford Not yet. Ask your eresource person
+	Rebecca Belford, Session Host:👍
+	
+14:48:17 From Kathy Glennan to Everyone:
+	P2E was a nightmare here, since we were activating resources in the WCKB, and we had that poor decision more than a decade ago to combine descriptions for print & e.
+	Scott Phinney:🙁
+	
+14:48:45 From Margaret Corby to Everyone:
+	Replying to "Naxos posts removals to their blog":
+	The last time I contacted Naxos about the deletes, I asked for ALL deletes, and they told me I had to go month-by-month.  A lot of work when you're years behind on the deletes.
+	Linda Fairtile:☹️
+	Session Host, Alyssa Nance:😠
+	David Prochazka:😮
+	
+14:49:21 From Michelle Hahn - OHIO (IFL, she) to Everyone:
+	Replying to "P2E was a nightmare here, since we were activating...":
+	That was a dream of mine when I finished separating our print and e at Salisbury, that I would just come up to College Park and do yours!
+	
+14:49:46 From Stephen Mantz to Everyone:
+	Replying to "Naxos posts removals to their blog":
+	It's a pain, too. Just a list of the 028s
+	
+14:50:05 From Kathy Glennan to Everyone:
+	Replying to "P2E was a nightmare here, since we were activating...":
+	There's still work for you here!!
+	
+14:51:03 From David Prochazka to Everyone:
+	some Naxos titles inculde mutiple discs, so I'm not sure about the count difference  (Think of Operas ... especially Wagner)
+	
+14:52:09 From Rebecca Belford to Everyone:
+	I found some cataloging buddies for a huge Smithsonian set through MOUG.
+	Kathy Abromeit, Session Host, Reed David, Casey Mullin:❤️
+	
+14:52:41 From Hermine Vermeij to Everyone:
+	We turned on research assistant but you can only get to it through a direct link--not obvious on the home page.
+	
+14:52:42 From Casey Mullin to Everyone:
+	I also spend a lot of time upgrading the NAXOS OCLC records. They're better than the native records but far from perfect. This justifies the manual approach somewhat.
+	Reed David:👍
+	
+14:53:42 From Reed David to Everyone:
+	One more bit of advice for the interlopers: ALMA-L is your friend.
+	Session Host, Kyla Jemison, Jennifer Olson:👍
+	
+14:53:46 From Leonard Martin to Everyone:
+	Replying to "At Washington State, one post-migration project wa...":
+	Similar project here. I made an import profile using spreadsheets for loading items with Enum/chron for backlog serials. When there are no gaps or changes in issuance it's very effective.
+	Alyssa Nance, Casey Mullin:❤️
+	Reed David:👍
+	
+14:53:48 From Kathy Abromeit to Everyone:
+	I have found the research assistant unacceptable. Hope we don’t turn it on.
+	Gwen and Kyler:❤️
+	Session Host:👍
+	Linda Fairtile:👍🏻
+	
+14:53:58 From Rebecca Belford to Everyone:
+	Rapido?
+	
+14:54:01 From Kathy Abromeit to Everyone:
+	I understand that OhioLINK is moving to rapido??
+	David Prochazka:👍
+	
+14:54:48 From Kathy Abromeit to Everyone:
+	Oh, I am misspeakking with rapido. sorry.
+	
+14:54:49 From Reed David to Everyone:
+	Replying to "One more bit of advice for the interlopers: ALMA-L...":
+	A warning: as e-mail lists go, it has a LOT of traffic.  If MLA-L is a water fountain, ALMA-L is a fire hose.
+	Linda Fairtile:👍🏻
+	Margaret Corby:👍🏼
+	
+14:54:57 From Kathy Abromeit to Everyone:
+	Oh we are. YES
+	
+14:55:17 From Linda Fairtile to Everyone:
+	Replying to "One more bit of advice for the interlopers: ALMA-L...":
+	@Reed, that's what I found. I had to unsubscribe
+	
+14:55:21 From Scott Phinney to Everyone:
+	Having also migrated from an INN-Reach set-up, getting used to the fact there really is only bib takes some getting used to.
+	
+14:55:22 From Leonard Martin to Everyone:
+	Replying to "Rapido?":
+	We just purchased this. No clue on when we'll implement though. Something something ILL will figure it out?
+	
+14:55:55 From Kathy Abromeit to Everyone:
+	Yes, that’s right, Laura-Gayle!
+	
+14:55:54 From Rebecca Belford to Everyone:
+	Re sandbox: Definitely an Alma feature I am looking forward to from Sierra is having an actual sandbox!
+	
+14:56:12 From Hermine Vermeij to Everyone:
+	Replying to "Re sandbox: Definitely an Alma feature I am lookin...":
+	Will you have a premium sandbox? It's awesome.
+	Leonard Martin:💯
+	
+14:56:41 From Kathy Glennan to Everyone:
+	Replying to "Re sandbox: Definitely an Alma feature I am lookin...":
+	We've had to watch out for permissions within the premium sandbox; for example, I shouldn't see patron info.
+	
+14:56:49 From Scott Phinney to Everyone:
+	Yeah, low-traffic ALMA-L is not
+	
+14:56:49 From Rebecca Belford to Everyone:
+	Replying to "Re sandbox: Definitely an Alma feature I am lookin...":
+	Not sure. Is that consortial or local purchase? If the latter... probably not.
+	
+14:57:01 From Hermine Vermeij to Everyone:
+	Replying to "Re sandbox: Definitely an Alma feature I am lookin...":
+	Consortial, I think.
+	
+14:57:03 From Kyla Jemison to Everyone:
+	Replying to "One more bit of advice for the interlopers: ALMA-L...":
+	being able to search the ALMA-L archive has solved a lot of problems for me
+	Reed David:👍
+	
+14:57:41 From Kathy Glennan to Everyone:
+	Replying to "Re sandbox: Definitely an Alma feature I am lookin...":
+	We have consortial, with data from two of our institutions.
+	
+14:57:44 From David Prochazka to Everyone:
+	Are there more specialized lists than Alma-L?
+	
+14:58:04 From Hermine Vermeij to Everyone:
+	Replying to "Are there more specialized lists than Alma-L?":
+	There's one for Analytics.
+	
+14:58:10 From Kathy Glennan to Everyone:
+	Replying to "Are there more specialized lists than Alma-L?":
+	Content-L too
+	
+14:58:12 From Scott Phinney to Everyone:
+	Replying to "Re sandbox: Definitely an Alma feature I am lookin...":
+	@Kathy Glennan same here
+	
+14:58:16 From Kathy Glennan to Everyone:
+	Replying to "Are there more specialized lists than Alma-L?":
+	ELUNA-Announce also
+	
+14:58:37 From Linda Fairtile to Everyone:
+	Sometimes when I have an ALMA question, I just google it and find the answer on some other institution's web page or libguide
+	Session Host, Catherine Busselen:👍
+	
+14:58:54 From Hermine Vermeij to Everyone:
+	https://exlibrisusers.org/postorius/lists/
+	
+14:58:55 From Michelle Hahn - OHIO (IFL, she) to Everyone:
+	Replying to "Are there more specialized lists than Alma-L?":
+	There is a consortialalma-L
+	
+14:59:18 From Scott Phinney to Everyone:
+	The Southeast Regional Users Group has gotten a little more active, thanks to FLVC
+	
+14:59:53 From Rebecca Belford to Everyone:
+	THANK YOU! This has helped so, so much.
+	
+14:59:55 From Kathy Glennan to Everyone:
+	Thanks everyone - great discussion!
+	
+14:59:58 From Reed David to Everyone:
+	Best of luck to the interlopers, and welcome!
+	Rebecca Belford:👍
+	
+15:00:08 From Linda Fairtile to Everyone:
+	Thanks, everyone! Thanks, Laura Gayle!
+	
+15:00:13 From Jill Eller to Everyone:
+	That would be great!
+	
+15:00:18 From Kathy Abromeit to Everyone:
+	YES to the check-in meetings!!!
+	Jennifer Olson:👍
+	
+15:00:18 From Hermine Vermeij to Everyone:
+	Good luck, migrators!
+	Scott Phinney, Leonard Martin:👍
+	
+15:00:20 From Leonard Martin to Everyone:
+	Yes, especially with the Ohio folks implementation
+	
+15:00:24 From Jennifer Olson to Everyone:
+	thank you all for the helpful information!
+	
+15:00:45 From David Prochazka to Everyone:
+	Thanks, we'll need it!
+	
+15:00:46 From Emily M. Colucci to Everyone:
+	Thank you all so much for everyone’s great, insightful input!  Happy migrating to those who are in the process!
+	
+15:00:50 From Anthony Sharp to Everyone:
+	Thanks
+	
+15:00:53 From Tracey Rudnick to Everyone:
+	Thank you!
+	
+15:00:54 From Jill Eller to Everyone:
+	THank you!
+	

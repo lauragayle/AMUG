@@ -8,6 +8,8 @@ AMUG is an interest group for library staff working with music materials in libr
 - ALMA Music Users Group discussion list: <ALMAMusicUsers@lists.fsu.edu>
 - Subscribe or manage your subscription at <https://lists.fsu.edu/mailman/listinfo/almamusicusers>
 
+## 20250326 meeting chat: <https://github.com/lauragayle/AMUG/blob/main/20250326_meeting_chat>
+
 ## Links from 20250326 meeting chat
 - Orbis/Cascade GitHub: <https://github.com/Orbis-Cascade-Alliance/ve-norm-rules>
 - FLVC - Florida State Universities and Colleges library consortium guides: <https://flvc.libguides.com/AlmaPrimoGuides>
@@ -17,5 +19,5 @@ AMUG is an interest group for library staff working with music materials in libr
 
 
 
-## 20250326 meeting chat
+
 
